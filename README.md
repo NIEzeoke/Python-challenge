@@ -14,6 +14,8 @@ Calculate summary statistics and totals (eg. total months, greatest increase, wo
 
 After calculation, the script uses several print statements to present a report on the analysis to the user.
 
+
+
 PyPoll
 
 This part of the challenge focused on developing a script to aid in counting votes in an election based on source data from a CSV file ("election_data.csv" in the "Resources" folder, which holds three columns: Voter ID, County, and Candidate). When run, the Python script (main.py) is set up to:
